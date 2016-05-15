@@ -1,5 +1,7 @@
 package pucrs.alpro3np.graphs;
-
+/*
+ * autor anderson mann
+ */
 import java.util.ArrayList;
 
 public class DirectedGraphMatrix extends AbstractGraphMatrix implements
